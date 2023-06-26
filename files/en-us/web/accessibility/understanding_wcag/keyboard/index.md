@@ -1,3 +1,5 @@
+![136792791](https://github.com/mdn/content/assets/136792791/a8e82dd2-b657-45ba-8dda-ae640280d28c)
+![136792791](https://github.com/mdn/content/assets/136792791/0476e832-11df-4d70-bc78-c3a050434097)
 ---
 title: Keyboard
 slug: Web/Accessibility/Understanding_WCAG/Keyboard
